@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="4" value="$(&quot;$END$&quot;)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
