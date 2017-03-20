@@ -17,4 +17,16 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="js" value="&lt;script type=&quot;text/javascript&quot;&gt;&#10;    $END$&#10;&lt;/script&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="jsrc" value="&lt;script src=&quot;$END$&quot;&gt;&lt;/script&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

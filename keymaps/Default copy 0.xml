@@ -2,6 +2,9 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="shift f" />
+  </action>
   <action id="NewHtmlFile">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
