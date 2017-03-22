@@ -28,5 +28,21 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="Prototype-1.7.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Prototype" />
+        <option name="frameworkVersion" value="1.7.1" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_prototype_1.7.1_prototype.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_prototype_1.7.1_prototype.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.prototypejs.org" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
   </component>
 </application>
