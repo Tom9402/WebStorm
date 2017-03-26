@@ -33,6 +33,9 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
+  <action id="ResetToMySettings">
+    <keyboard-shortcut first-keystroke="r" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
@@ -56,6 +59,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="SyncSettings">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Tool_External Tools_Git Bash">
     <keyboard-shortcut first-keystroke="alt g" />

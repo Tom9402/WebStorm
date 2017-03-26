@@ -2,6 +2,7 @@
   <component name="AbbreviationManager">
     <abbreviations>
       <action id="ShowUmlDiagram" />
+      <action id="SyncSettings" />
     </abbreviations>
   </component>
 </application>
