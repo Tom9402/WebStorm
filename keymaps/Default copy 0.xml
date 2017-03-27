@@ -5,7 +5,7 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="alt h" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
