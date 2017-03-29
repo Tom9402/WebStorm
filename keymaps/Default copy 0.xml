@@ -33,6 +33,9 @@
   <action id="ResetToMySettings">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
