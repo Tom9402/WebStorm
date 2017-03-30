@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy 0" parent="$default">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt k" />
