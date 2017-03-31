@@ -1,0 +1,14 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="XML/Add Xsi schema location for external resource" />
+    <ignoreAction name="XML/Choose Color" />
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="XML/Expand Empty Tag" />
+    <ignoreAction name="XML/Fetch external resource" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Manually setup external resource" />
+    <ignoreAction name="XML/Merge Tags" />
+    <ignoreAction name="XML/Reset to default namespace" />
+    <ignoreAction name="XML/Split current tag" />
+  </component>
+</application>
