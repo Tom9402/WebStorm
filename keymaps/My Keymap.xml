@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 0" parent="$default">
+<keymap version="1" name="My Keymap" parent="$default">
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
@@ -8,7 +8,7 @@
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -23,9 +23,6 @@
   </action>
   <action id="NewHtmlFile">
     <keyboard-shortcut first-keystroke="alt h" />
-  </action>
-  <action id="NewJavaScriptFile">
-    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="NewStylesheetFile">
     <keyboard-shortcut first-keystroke="alt s" />
