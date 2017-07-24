@@ -29,14 +29,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="el" value="else {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="el" value="else {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="4" value="$('$END$')" toReformat="false" toShortenFQNames="true">
+  <template name="4" value="$('$END$')" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
