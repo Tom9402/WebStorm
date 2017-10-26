@@ -31,15 +31,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl alt f3" />
   </action>
-  <action id="NewDir">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="NewHtmlFile">
-    <keyboard-shortcut first-keystroke="alt h" />
-  </action>
-  <action id="NewStylesheetFile">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>

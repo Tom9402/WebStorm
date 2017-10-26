@@ -25,7 +25,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="jsr" value="&lt;script src=&quot;$END$&quot;&gt;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="jsrc" value="&lt;script src=&quot;$END$&quot;&gt;&lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
