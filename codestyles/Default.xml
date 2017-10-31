@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
   </JSCodeStyleSettings>
