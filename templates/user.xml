@@ -63,4 +63,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="viewport" value="&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
 </templateSet>
