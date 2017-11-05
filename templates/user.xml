@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="6" value="${$1$}$2$" toReformat="false" toShortenFQNames="true">
+  <template name="6" value="${$1$}$2$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -63,7 +63,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="viewport" value="&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="viewport" value="&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
