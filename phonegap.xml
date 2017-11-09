@@ -1,0 +1,5 @@
+<application>
+  <component name="PhoneGapSettings">
+    <option name="executablePath" value="C:\Program Files (x86)\Adobe\PhoneGap\PhoneGap Desktop\resources\app.asar.unpacked\node_modules\.bin\phonegap.cmd" />
+  </component>
+</application>
