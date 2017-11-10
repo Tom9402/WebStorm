@@ -26,7 +26,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="el" value="else {&#10;    $1$&#10;}&#10;$2$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="el" value="else {&#10;  $1$&#10;}&#10;$2$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -35,7 +35,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="for" value="for(let i=0;i&lt;$1$.length;i++){&#10;    $2$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="for(let i=0;i&lt;$1$.length;i++){&#10;  $2$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -43,7 +43,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="if" value="if($1$){&#10;    $2$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="if($1$){&#10;  $2$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
