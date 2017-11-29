@@ -4,4 +4,12 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.2" />
   </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="HTML" value="true" />
+      </map>
+    </option>
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+  </component>
 </application>
