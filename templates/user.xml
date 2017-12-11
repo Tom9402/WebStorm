@@ -78,7 +78,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="dqa" value="document.querySelectorAll('$1$')$2$" toReformat="false" toShortenFQNames="true">
+  <template name="dqa" value="document.querySelectorAll('$1$')$2$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
