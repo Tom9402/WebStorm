@@ -43,7 +43,7 @@
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$ContentRoot$" />
+      <option name="workingDir" value="E:/Project/safetyMeter/src/main/webapp/js" />
       <envs />
     </TaskOptions>
   </component>
