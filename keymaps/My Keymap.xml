@@ -3,9 +3,15 @@
     <keyboard-shortcut first-keystroke="alt a" />
     <keyboard-shortcut first-keystroke="shift alt delete" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt equals" />
   </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />

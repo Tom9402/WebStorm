@@ -1,18 +1,9 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Consolas" />
-    <option name="LINE_SPACING" value="1.3" />
+    <option name="FONT_SCALE" value="1.25" />
+    <option name="LINE_SPACING" value="1.2" />
   </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="HTML" value="true" />
-      </map>
-    </option>
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-  </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="500" nodeUpdateOnChanges="true" />
 </application>
