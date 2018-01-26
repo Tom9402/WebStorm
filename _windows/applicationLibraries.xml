@@ -41,5 +41,16 @@
       </DOCUMENTATION>
       <SOURCES />
     </library>
+    <library name="jquery.ztree.core" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_zTree.v3_3.5.32_js_jquery.ztree.core.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_zTree.v3_3.5.32_js_jquery.ztree.core.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
