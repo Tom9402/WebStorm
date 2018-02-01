@@ -1,6 +1,8 @@
 <application>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="500" />
+    </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <scroll-to-center>true</scroll-to-center>

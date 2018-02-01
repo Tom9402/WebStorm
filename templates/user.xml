@@ -85,7 +85,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="c=&gt;" value="const $1$ = ($2$) =&gt; {&#10;  $3$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="c&gt;" value="const $1$ = ($2$) =&gt; {&#10;  $3$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
@@ -102,10 +102,19 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="dgi" value="document.getElementById('$END$')" description="" toReformat="false" toShortenFQNames="true">
+  <template name="dgi" value="document.getElementById('$1$')$2$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="`" value="${$END$}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
     </context>
   </template>
 </templateSet>
