@@ -4,5 +4,8 @@
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.2" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+  </component>
   <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
 </application>
