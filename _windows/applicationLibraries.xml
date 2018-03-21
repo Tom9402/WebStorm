@@ -14,6 +14,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="echarts-en.common" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_echarts_4.0.4_echarts-en.common.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_echarts_4.0.4_echarts-en.common.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
