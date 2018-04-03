@@ -5,7 +5,13 @@
     <option name="LINE_SPACING" value="1.2" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="HTML" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="200" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="200" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
