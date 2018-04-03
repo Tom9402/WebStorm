@@ -7,7 +7,7 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="PREVIEW" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
+  <component name="LiveEditOptions" chromeAutoDelay="200" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="200" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true">
     <option name="elementHighlighting" value="true" />
   </component>
 </application>

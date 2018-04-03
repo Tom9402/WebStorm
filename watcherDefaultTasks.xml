@@ -50,7 +50,7 @@
       <option name="arguments" value="$FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="NEVER" />
       <option name="fileExtension" value="styl" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Stylus" />
