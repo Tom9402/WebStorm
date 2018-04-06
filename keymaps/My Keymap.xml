@@ -1,4 +1,7 @@
 <keymap version="1" name="My Keymap" parent="$default">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt a" />
     <keyboard-shortcut first-keystroke="shift alt delete" />
@@ -43,6 +46,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl alt f3" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -59,4 +65,5 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
