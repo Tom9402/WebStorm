@@ -129,12 +129,5 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="Vue.js" type="javaScript">
-      <CLASSES />
-      <DOCUMENTATION>
-        <root url="https://github.com/vuejs/vue/blob/dev/dist/vue.js" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
   </component>
 </application>
