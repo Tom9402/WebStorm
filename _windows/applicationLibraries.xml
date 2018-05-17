@@ -4,10 +4,6 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="@types/vue-scrollto" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="axios" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -21,111 +17,9 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="core" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.3.1_core.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.3.1_core.js" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
     <library name="echarts" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_echarts_4.0.0_echarts.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="echarts-en.common" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_echarts_4.0.4_echarts-en.common.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_echarts_4.0.4_echarts-en.common.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="index" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_element-ui_2.2.2_index.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_element-ui_2.2.2_index.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="jquery" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.3.1_jquery.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_apps.bdimg.com_libs_jquery_2.1.4_jquery.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery_3.3.1_jquery.js" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="jQuery-2.0.0" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
-      </CLASSES>
-      <DOCUMENTATION>
-        <root url="http://api.jquery.com" />
-      </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="jquery.ztree.core" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_zTree.v3_3.5.32_js_jquery.ztree.core.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="perfect-scrollbar" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery.perfect-scrollbar_0.8.1_js_perfect-scrollbar.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery.perfect-scrollbar_0.8.1_js_perfect-scrollbar.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="perfect-scrollbar.jquery" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery.perfect-scrollbar_0.8.1_js_perfect-scrollbar.jquery.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery.perfect-scrollbar_0.8.1_js_perfect-scrollbar.jquery.js" />
-      </CLASSES>
-      <SOURCES />
-    </library>
-    <library name="perfect-scrollbar.with-mousewheel" type="javaScript">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_jquery.perfect-scrollbar_0.4.11_perfect-scrollbar.with-mousewheel.min.js" />
       </CLASSES>
       <SOURCES />
     </library>
