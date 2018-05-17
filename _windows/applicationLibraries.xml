@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/es6-collections" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/node" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/vue-resource" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -24,14 +32,12 @@
       <SOURCES />
     </library>
     <library name="vue" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue@2.5.16_dist_vue.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_vue@2.5.16_dist_vue.js" />
+        <root url="file://E:/Project/webapp/node_modules/vue/dist/vue.js" />
       </CLASSES>
+      <DOCUMENTATION>
+        <root url="https://github.com/vuejs/vue/blob/dev/dist/vue.js" />
+      </DOCUMENTATION>
       <SOURCES />
     </library>
   </component>
