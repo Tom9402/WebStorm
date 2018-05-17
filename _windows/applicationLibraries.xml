@@ -1,13 +1,5 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/es6-collections" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="@types/node" type="javaScript">
-      <CLASSES />
-      <SOURCES />
-    </library>
     <library name="@types/vue-resource" type="javaScript">
       <CLASSES />
       <SOURCES />
