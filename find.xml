@@ -11,7 +11,7 @@
     <mask>*.mxml</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
