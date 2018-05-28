@@ -30,9 +30,7 @@
       <SOURCES />
     </library>
     <library name="vue" type="javaScript">
-      <CLASSES>
-        <root url="file://E:/Project/webapp/node_modules/vue/dist/vue.js" />
-      </CLASSES>
+      <CLASSES />
       <DOCUMENTATION>
         <root url="https://github.com/vuejs/vue/blob/dev/dist/vue.js" />
       </DOCUMENTATION>
