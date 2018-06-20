@@ -26,9 +26,8 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="el" value=" else {&#10;  $1$&#10;}&#10;$2$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="el" value=" else {&#10;  $1$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
