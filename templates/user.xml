@@ -144,4 +144,10 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="@c" value="@click=&quot;$END$&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
