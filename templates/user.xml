@@ -150,7 +150,7 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="ax" value="axios({&#10;  url: HEADER + '$END$'&#10;})&#10;  .then(({data}) =&gt; {&#10;    console.log(data)&#10;})" toReformat="false" toShortenFQNames="true">
+  <template name="ax" value="axios({&#10;  url: HEADER + '$END$'&#10;})&#10;  .then(({data}) =&gt; {&#10;    console.log(data)&#10;})" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
