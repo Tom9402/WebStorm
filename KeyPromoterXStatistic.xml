@@ -17,6 +17,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Excluded">
+        <Item>
+          <IdeaActionID>MarkExcludeRoot</IdeaActionID>
+          <ShortCut>'Alt+M'</ShortCut>
+          <Description>Excluded</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Terminal">
         <Item>
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
