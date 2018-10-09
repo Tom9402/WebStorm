@@ -9,9 +9,8 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="4" value="$('$1$')$2$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="4" value="{{$t('$1$')}}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
