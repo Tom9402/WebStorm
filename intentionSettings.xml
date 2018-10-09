@@ -12,7 +12,6 @@
     <ignoreAction name="TypeScript/Convert parameter property to class field" />
     <ignoreAction name="TypeScript/Convert type alias to enum" />
     <ignoreAction name="TypeScript/Convert type alias to interface" />
-    <ignoreAction name="TypeScript/Generate reference path comment" />
     <ignoreAction name="TypeScript/Implement in derived classes" />
     <ignoreAction name="TypeScript/Make 'private'" />
     <ignoreAction name="TypeScript/Make 'protected'" />
