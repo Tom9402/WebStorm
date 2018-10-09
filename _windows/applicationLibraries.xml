@@ -5,6 +5,11 @@
       <SOURCES />
     </library>
     <library name="axios" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_axios_0.18.0_axios.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.bootcss.com_axios_0.18.0_axios.js" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_axios_dist_axios.js" />
