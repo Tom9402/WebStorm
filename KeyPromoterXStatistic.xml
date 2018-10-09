@@ -6,7 +6,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -45,6 +45,14 @@
         <Item>
           <IdeaActionID>ActivatenpmToolWindow</IdeaActionID>
           <Description>npm</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="同步wx.d.ts">
+        <Item>
+          <IdeaActionID>com.ysnows.wxapp.SyncTs</IdeaActionID>
+          <ShortCut>'Meta+Shift+N'</ShortCut>
+          <Description>同步wx.d.ts</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
