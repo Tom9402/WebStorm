@@ -11,4 +11,8 @@
     </option>
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
