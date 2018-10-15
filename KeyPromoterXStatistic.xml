@@ -1,6 +1,22 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned.From.Dialog</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -87,6 +103,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="VCS Operations Popup...">
+        <Item>
+          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>VCS Operations Popup...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
