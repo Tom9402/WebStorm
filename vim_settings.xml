@@ -1,25 +1,68 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" timestamp="1540034716218">
+        <mark key="'" line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/admin-element-yzh/src/pages/InventoryReport/InventoryReport.vue" timestamp="1539569151093">
         <mark key="[" line="854" column="16" />
       </file>
       <file name="/JavaScript Console" timestamp="1539569224235">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/src/main.js" timestamp="1540034686799">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="23" column="26" filename="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gyKu+1re9t6gK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gyKu+1re9t6gK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gyKu+1re9t6gK</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
