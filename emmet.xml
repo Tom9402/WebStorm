@@ -1,5 +1,5 @@
 <application>
-  <component name="EmmetOptions">
-    <option name="previewEnabled" value="true" />
+  <component name="JsxEmmetOptions">
+    <option name="emmetEnabled" value="false" />
   </component>
 </application>
