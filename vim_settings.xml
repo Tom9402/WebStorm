@@ -10,11 +10,24 @@
         <mark key="^" line="43" column="29" />
         <mark key="." line="43" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/README.md" timestamp="1540624132358">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/admin-element-yzh/src/pages/InventoryReport/InventoryReport.vue" timestamp="1539569151093">
         <mark key="[" line="854" column="16" />
       </file>
       <file name="/JavaScript Console" timestamp="1539569224235">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" timestamp="1540624749025">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/src/pages/CampaignManager/Form/AdPerformanceSettings.vue" timestamp="1540624060221">
+        <mark key="'" line="678" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Project/4kmiles-pc/src/main.js" timestamp="1540034686799">
         <mark key="[" line="51" column="0" />
@@ -25,30 +38,87 @@
     </filemarks>
     <jumps>
       <jump line="23" column="26" filename="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" />
+      <jump line="678" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/src/pages/CampaignManager/Form/AdPerformanceSettings.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/README.md" />
+      <jump line="14" column="16" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="5" column="4" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gyKu+1re9t6gK</text>
+      <register name="&quot;" type="4">
+        <text>666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gyKu+1re9t6gK</text>
+      <register name="-" type="4">
+        <text>666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666</text>
+      </register>
+      <register name="/" type="4">
+        <text>bn</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJob3N0IjogIiIsCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDEwaTY2Ngo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gyKu+1re9t6gK</text>
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwKICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJwcml2YXRlX2tleSI6ICJ+Ly5zc2gvaWRfcnNhIgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJkaXNhYmxlIjogZmFsc2UsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>n</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>bn</last-search>
+      <last-offset />
+      <last-pattern>bn</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>bn</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>pattern</entry>
+        <entry>pattern p</entry>
+        <entry>'</entry>
+        <entry>bn</entry>
+      </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>actionlist</entry>
+        <entry>help</entry>
+        <entry>h</entry>
+        <entry>e</entry>
+        <entry>w</entry>
+        <entry>x</entry>
+        <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>n</entry>
       </history-cmd>
       <history-expr />
       <history-input />

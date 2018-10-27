@@ -71,4 +71,7 @@
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
 </keymap>
