@@ -19,11 +19,12 @@
       <file name="/JavaScript Console" timestamp="1539569224235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" timestamp="1540632054714">
-        <mark key="'" line="6" column="5" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" timestamp="1540656868290">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Project/4kmiles-pc/src/pages/CampaignManager/Form/AdPerformanceSettings.vue" timestamp="1540624060221">
         <mark key="'" line="678" column="0" />
@@ -41,26 +42,33 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/README.md" />
       <jump line="14" column="16" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
-      <jump line="5" column="4" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
-      <jump line="8" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
       <jump line="19" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
-      <jump line="18" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
-      <jump line="7" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="15" column="14" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="4" column="4" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="17" column="18" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="20" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="7" column="6" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFBhdGhcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;username&quot;: &quot;&quot;,</text>
+        <text>password</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -90,7 +98,7 @@
         <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>n</text>
+        <text>close</text>
       </register>
     </registers>
     <search>
@@ -122,6 +130,8 @@
         <entry>bn</entry>
         <entry>bp</entry>
         <entry>n</entry>
+        <entry>split</entry>
+        <entry>close</entry>
       </history-cmd>
       <history-expr />
       <history-input />
