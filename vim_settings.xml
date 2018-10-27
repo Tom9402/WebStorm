@@ -19,12 +19,11 @@
       <file name="/JavaScript Console" timestamp="1539569224235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" timestamp="1540629032625">
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" timestamp="1540630880237">
         <mark key="'" line="7" column="5" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Project/4kmiles-pc/src/pages/CampaignManager/Form/AdPerformanceSettings.vue" timestamp="1540624060221">
         <mark key="'" line="678" column="0" />
@@ -52,10 +51,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJkaXNhYmxlIjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFBhdGhcPg==</text>
@@ -64,22 +63,22 @@
         <text>&quot;username&quot;: &quot;&quot;,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJkaXNhYmxlIjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiIiwK</text>
+        <text encoding="base64">ICAgICJkaXNhYmxlIjogZmFsc2UsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDEwaTY2Ngo=</text>
+        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwK</text>
+        <text encoding="base64">ICAgIDEwaTY2Ngo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwKICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwKICAgICJwYXNzd29yZCI6ICIiLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
@@ -88,7 +87,7 @@
         <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCg==</text>
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>n</text>
