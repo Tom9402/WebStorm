@@ -37,7 +37,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="VimPluginToggle">
