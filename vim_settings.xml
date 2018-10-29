@@ -3,23 +3,223 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" timestamp="1540621890247">
+        <mark key="'" line="23" column="26" />
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="43" column="29" />
+        <mark key="^" line="43" column="29" />
+        <mark key="." line="43" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/README.md" timestamp="1540624132358">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/admin-element-yzh/src/pages/InventoryReport/InventoryReport.vue" timestamp="1539569151093">
         <mark key="[" line="854" column="16" />
       </file>
       <file name="/JavaScript Console" timestamp="1539569224235">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" timestamp="1540657563447">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/src/pages/CampaignManager/Form/AdPerformanceSettings.vue" timestamp="1540624060221">
+        <mark key="'" line="678" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Project/4kmiles-pc/src/main.js" timestamp="1540034686799">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="23" column="26" filename="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" />
+      <jump line="678" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/src/pages/CampaignManager/Form/AdPerformanceSettings.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/README.md" />
+      <jump line="14" column="16" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="19" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="15" column="14" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="4" column="4" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="17" column="18" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="20" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="7" column="6" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>password</text>
+      </register>
+      <register name="-" type="4">
+        <text>`</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxsb2NhbFBhdGhcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text>password</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJkaXNhYmxlIjogZmFsc2UsCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiIiwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDEwaTY2Ngo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwKICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>close</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxsb2NhbFBhdGhcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsb2NhbFBhdGhcPg==</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxsb2NhbFBhdGhcPg==</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>pattern</entry>
+        <entry>pattern p</entry>
+        <entry>'</entry>
+        <entry>bn</entry>
+        <entry encoding="base64">XDxkaXNhYmxlXD4=</entry>
+        <entry encoding="base64">XDxsb2NhbFBhdGhcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>actionlist</entry>
+        <entry>help</entry>
+        <entry>h</entry>
+        <entry>e</entry>
+        <entry>w</entry>
+        <entry>x</entry>
+        <entry>bn</entry>
+        <entry>bp</entry>
+        <entry>n</entry>
+        <entry>split</entry>
+        <entry>close</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
