@@ -129,14 +129,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Settings...">
-        <Item>
-          <IdeaActionID>ShowSettings</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+S'</ShortCut>
-          <Description>Settings...</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Stop '4KMILES'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
