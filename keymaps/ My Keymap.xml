@@ -1,4 +1,4 @@
-<keymap version="1" name=" Save My Keymap" parent="$default">
+<keymap version="1" name=" My Keymap" parent="$default">
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
