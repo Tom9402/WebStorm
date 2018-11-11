@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find Action...">
+        <Item>
+          <IdeaActionID>GotoAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+A'</ShortCut>
+          <Description>Find Action...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Hide All Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -107,6 +115,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Check for Updates...">
+        <Item>
+          <IdeaActionID>CheckForUpdate</IdeaActionID>
+          <Description>Check for Updates...</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug">
         <Item>
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
