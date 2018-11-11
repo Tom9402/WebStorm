@@ -1,4 +1,4 @@
-<keymap version="1" name="My Keymap" parent="$default">
+<keymap version="1" name=" My Keymap" parent="$default">
   <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -24,20 +24,20 @@
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
-  <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
-  </action>
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="right" />
-  </action>
   <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="right" />
   </action>
   <action id="Vcs.UpdateProject" />
   <action id="VimPluginToggle">
