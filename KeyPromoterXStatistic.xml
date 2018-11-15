@@ -105,14 +105,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Project">
-        <Item>
-          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
-          <ShortCut>'Alt+1'</ShortCut>
-          <Description>Project</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rerun 'dev'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -199,6 +191,14 @@
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
