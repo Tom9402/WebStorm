@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/Documents/Project/4kmiles-pc/README.md" timestamp="1540624132358">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/4kmiles-branches/src/pages/ReviewsBooster/emailTrend.vue" timestamp="1542269430382">
-        <mark key="'" line="326" column="15" />
+      <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/4kmiles-branches/src/pages/ReviewsBooster/emailTrend.vue" timestamp="1542270256439">
+        <mark key="'" line="44" column="43" />
         <mark key="[" line="482" column="2" />
         <mark key="]" line="482" column="1" />
         <mark key="^" line="482" column="1" />
-        <mark key="." line="482" column="1" />
+        <mark key="." line="298" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/admin-element-yzh/src/pages/InventoryReport/InventoryReport.vue" timestamp="1539569151093">
         <mark key="[" line="854" column="16" />
@@ -61,6 +61,11 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/4kmiles-branches/src/assets/js/public.js" timestamp="1542270027811">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="26" filename="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" />
@@ -93,16 +98,17 @@
       <jump line="411" column="6" filename="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/4kmiles-branches/src/pages/ReviewsBooster/emailTrend.vue" />
       <jump line="401" column="17" filename="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/4kmiles-branches/src/pages/ReviewsBooster/emailTrend.vue" />
       <jump line="326" column="15" filename="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/4kmiles-branches/src/pages/ReviewsBooster/emailTrend.vue" />
+      <jump line="44" column="43" filename="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/4kmiles-branches/src/pages/ReviewsBooster/emailTrend.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>npm</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>npm</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJDaGFydFw+</text>
+        <text>in</text>
       </register>
       <register name="0" type="4">
         <text>password</text>
@@ -139,12 +145,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJDaGFydFw+</last-search>
+      <last-search>in</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJDaGFydFw+</last-pattern>
+      <last-pattern>in</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxsb2NhbFBhdGhcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -156,6 +162,10 @@
         <entry encoding="base64">XDxkaXNhYmxlXD4=</entry>
         <entry encoding="base64">XDxsb2NhbFBhdGhcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJDaGFydFw+</entry>
+        <entry>f</entry>
+        <entry>echarts</entry>
+        <entry>e</entry>
+        <entry>in</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -217,7 +227,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -226,7 +236,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
