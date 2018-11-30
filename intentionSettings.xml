@@ -20,5 +20,21 @@
     <ignoreAction name="XSLT/Convert if to choose" />
     <ignoreAction name="XSLT/Inline xsl:attribute" />
     <ignoreAction name="XSLT/Replace with xsl:attribute" />
+    <ignoreAction name="CSS/Convert color to HEX" />
+    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
+    <ignoreAction name="CSS/Convert color to HWB" />
+    <ignoreAction name="CSS/Convert color to gray" />
+    <ignoreAction name="CSS/Expand CSS shorthand property" />
+    <ignoreAction name="CSS/Extract inline CSS" />
+    <ignoreAction name="TypeScript/Generate reference path comment" />
+    <ignoreAction name="XML/Add Xsi schema location for external resource" />
+    <ignoreAction name="XML/Choose Color" />
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="XML/Fetch external resource" />
+    <ignoreAction name="XML/Insert namespace prefix" />
+    <ignoreAction name="XML/Manually setup external resource" />
+    <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Reset to default namespace" />
+    <ignoreAction name="XML/Split current tag" />
   </component>
 </application>
