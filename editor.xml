@@ -13,6 +13,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
   </component>
+  <component name="LiveEditOptions" chromeAutoDelay="500" restartIfHotSwapFailed="true" />
   <component name="TodoConfiguration">
     <pattern case-sensitive="true" pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
