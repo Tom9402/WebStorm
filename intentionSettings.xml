@@ -36,5 +36,9 @@
     <ignoreAction name="XML/Remove attribute" />
     <ignoreAction name="XML/Reset to default namespace" />
     <ignoreAction name="XML/Split current tag" />
+    <ignoreAction name="XML/Convert CDATA to text" />
+    <ignoreAction name="XML/Convert text to CData" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove tag" />
   </component>
 </application>
