@@ -3,12 +3,22 @@
     <property name="created">2018-11-30T21:20:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2018-11-30T21:36:10</property>
+    <property name="modified">2018-12-17T18:13:07</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <attributes>
+    <option name="BREAKPOINT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="faeae6" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="ffc8c8" />
+      </value>
+    </option>
     <option name="TEXT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
     </option>
   </attributes>
 </scheme>
