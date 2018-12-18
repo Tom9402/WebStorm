@@ -28,8 +28,16 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt i" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt r" />
