@@ -24,6 +24,10 @@
   <action id="MarkExcludeRoot">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
