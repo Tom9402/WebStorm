@@ -18,6 +18,9 @@
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="ExportSettings">
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
