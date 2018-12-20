@@ -6,7 +6,16 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="CSS" value="true" />
         <entry key="ECMAScript 6" value="true" />
+        <entry key="HTML" value="true" />
+        <entry key="JSON" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="LESS" value="true" />
+        <entry key="Stylus" value="false" />
+        <entry key="TypeScript" value="false" />
+        <entry key="XHTML" value="false" />
+        <entry key="XML" value="false" />
       </map>
     </option>
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
