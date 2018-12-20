@@ -16,8 +16,8 @@
       <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/admin-element-yzh/src/pages/InventoryReport/InventoryReport.vue" timestamp="1539569151093">
         <mark key="[" line="854" column="16" />
       </file>
-      <file name="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" timestamp="1545295166192">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" timestamp="1545296312960">
+        <mark key="'" line="52" column="6" />
         <mark key="[" line="39" column="50" />
         <mark key="]" line="39" column="51" />
         <mark key="^" line="44" column="0" />
@@ -42,6 +42,12 @@
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="30" />
       </file>
+      <file name="C:/Project/OA/Code/VueOA/Source/src/components/BFCore/listAction/template/index.js" timestamp="1545296291297">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="23" column="26" filename="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" />
@@ -65,13 +71,21 @@
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
       <jump line="44" column="0" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
       <jump line="0" column="0" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
+      <jump line="12" column="30" filename="C:/Project/OA/Code/VueOA/Source/src/components/BFCore/listAction/template/index.js" />
+      <jump line="0" column="0" filename="C:/Project/OA/Code/VueOA/Source/src/components/BFCore/listAction/template/index.js" />
+      <jump line="17" column="0" filename="C:/Project/OA/Code/VueOA/Source/src/components/BFCore/listAction/template/index.js" />
+      <jump line="49" column="16" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
+      <jump line="15" column="8" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
+      <jump line="56" column="0" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
+      <jump line="11" column="20" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
+      <jump line="52" column="6" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFBhdGhcPg==</text>
