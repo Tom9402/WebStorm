@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Project/4kmiles-pc/package.json" timestamp="1540621890247">
@@ -15,6 +15,13 @@
       </file>
       <file name="$USER_HOME$/Documents/Project/Linkcool.Amzdb.Web/branches/admin-element-yzh/src/pages/InventoryReport/InventoryReport.vue" timestamp="1539569151093">
         <mark key="[" line="854" column="16" />
+      </file>
+      <file name="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" timestamp="1545295166192">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="50" />
+        <mark key="]" line="39" column="51" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="39" column="51" />
       </file>
       <file name="/JavaScript Console" timestamp="1539569224235">
         <mark key="[" line="0" column="0" />
@@ -56,13 +63,15 @@
       <jump line="20" column="5" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
       <jump line="7" column="6" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Project/4kmiles-pc/.vscode-upload.json" />
+      <jump line="44" column="0" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
+      <jump line="0" column="0" filename="C:/Project/OA/Code/VueOA/Source/src/pages/home/noticeList/tpl.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>password</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFBhdGhcPg==</text>
@@ -71,28 +80,28 @@
         <text>password</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS10aXRsZT0iyb6z/SI+PC9lbC1idXR0b24+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJkaXNhYmxlIjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1zaXplPSJtaW5pIiB0eXBkZT0iZGFuZ2VyIiBpY29uPSJlbC1pY29uLWRlbGV0ZSIgQGNsaWNrPSJvbkRlbGV0ZShtKSItLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDEwaTY2Ngo=</text>
+        <text encoding="base64">ICAgICJkaXNhYmxlIjogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwK</text>
+        <text encoding="base64">ICAgICJsb2NhbFBhdGgiOiAiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwKICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgIDEwaTY2Ngo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAicGFzc3dvcmQiOiAiIiwKICAgICJwYXNzd29yZCI6ICIiLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICJwYXNzd29yZCI6ICIiLAo=</text>
@@ -137,37 +146,37 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -176,25 +185,25 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -203,22 +212,22 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
