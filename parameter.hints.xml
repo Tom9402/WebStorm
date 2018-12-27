@@ -4,6 +4,7 @@
       <blacklist language="TypeScript" />
       <blacklist language="JavaScript">
         <added pattern="checkInput(idModel,isDatePicker,msg)" />
+        <added pattern="vh.checkInput(data,idModel,isDatePicker,msg)" />
       </blacklist>
     </blacklists>
   </component>
