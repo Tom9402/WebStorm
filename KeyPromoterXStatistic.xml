@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show in Explorer">
+        <Item>
+          <IdeaActionID>RevealIn</IdeaActionID>
+          <ShortCut>'Alt+X'</ShortCut>
+          <Description>Show in Explorer</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop '4KMILES'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
