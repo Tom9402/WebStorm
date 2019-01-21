@@ -3,11 +3,20 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="CheckinProject" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift alt delete" />
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -42,8 +51,12 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Resume" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl back_slash" second-keystroke="down" />
